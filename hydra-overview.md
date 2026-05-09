@@ -38,8 +38,11 @@ hydra -L user-cred.txt -P user-pass.txt ftp://TARGET_IP -t 6
 ### Parameters
 
 -L - Username list
+
 -P - Password list
+
 ftp:// - Target FTP service
+
 -t 6 - Low thread count
 
 ---
