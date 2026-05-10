@@ -75,9 +75,13 @@ nano user-pass.txt
 Example contents:
 
 admin
+
 user1
+
 msfadmin
+
 123456
+
 car
 
 ---
@@ -89,9 +93,13 @@ Create a short username wordlist:
 Example contents:
 
 admin
+
 root
+
 msfadmin
+
 ftp
+
 password
 
 ---
