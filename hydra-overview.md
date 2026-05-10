@@ -31,7 +31,7 @@ The objective was educational
 
 ---
 
-## Comman Used
+## Command Used
 
 hydra -L user-cred.txt -P user-pass.txt ftp://TARGET_IP -t 6
 
@@ -63,8 +63,12 @@ Unauthorized credential attacks may violate laws and policies.
 - Official THC-Hydra Github:
   https://github.com/vanhauser-thc/thc-hydra
 
-  - Kali Linux Hydra Tool Page:
-    https://www.kali.org/tools/hydra/
+- Kali Linux Hydra Tool Page:
+  https://www.kali.org/tools/hydra/
+
+- Nmap Official Website:
+  https://nmap.org  
+-
 
   - Nmap Official Website:
     https://nmap.org
