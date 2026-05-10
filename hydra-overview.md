@@ -68,7 +68,4 @@ Unauthorized credential attacks may violate laws and policies.
 
 - Nmap Official Website:
   https://nmap.org  
--
 
-  - Nmap Official Website:
-    https://nmap.org
