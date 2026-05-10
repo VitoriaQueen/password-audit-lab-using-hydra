@@ -12,9 +12,10 @@ This video demonstrates:
 ---
 
 # Video Demonstration
+<br><br>
 
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/6lur8j7j4Cs"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6lur8j7j4Cs">
+    <img src="https://img.youtube.com/vi/6lur8j7j4Cs/0.jpg" width="700"/>
+  </a>
+</p>
